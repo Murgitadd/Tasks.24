@@ -1,0 +1,43 @@
+a {
+    color:black;
+}
+a:hover {
+    color: red;
+}
+
+.langtxt {
+    font-size: 12px;
+}
+
+.quotetxt {
+    font-size: 13px;
+}
+
+.myheader {
+    line-height: 1px;
+}
+
+/* Copied Css */
+hr {
+clear: both;
+border: 0;
+height: 2px;
+background-image: linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,.75),rgba(0,0,0,0));
+}
+/* Copied Css */
+
+table {
+    width: 100%;
+}
+
+.ratd {
+    width: 20px;
+}
+
+#hered {
+    color: red;
+}
+
+.imgdivs {
+    width: 75%;
+}
